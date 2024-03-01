@@ -1,0 +1,80 @@
+body{
+    color: #ffffffe6;
+    background-color: rgba(121, 184, 186, 0.59);
+    
+}
+
+.corpo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    /* box-sizing: border-box; */
+}
+
+.d1 {
+    text-align: center;
+    margin: 30px 10px;
+    padding: 10px;
+    color: black;
+}
+
+.cabecalho-roupa {
+    /* margin: 40px; */
+    margin: 2px;
+    padding: 15px;
+    background-color: #bb86fc;
+    border: solid 3px;
+    color: #ffffffe6;
+}
+
+.pecas {
+    padding: 20px;
+    border: solid 3px;
+    background-color: #424250;
+}
+
+.tamanho {
+    padding: 20px;
+    border: solid 3px;
+    background-color: #424250;
+}
+
+.preco {
+    padding: 20px;
+    border: solid 3px;
+    background-color: #424250;
+}
+.corpo-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.cabecalho-livro {
+    margin: 2px;
+    padding: 15px;
+    background-color: #00C4B4;
+    border: solid 3px;
+    color: #ffffffe6;
+}
+
+.livro {
+    padding: 25px;
+    border: solid;
+    background-color: #424250;
+}
+
+.pag {
+    padding: 20px;
+    border: solid;
+    background-color: #424250;
+}
+
+.valor {
+    padding: 20px;
+    border: solid;
+    background-color: #424250;
+}
